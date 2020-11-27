@@ -10,7 +10,7 @@ public class DemomeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemomeApplication.class, args);
-        System.out.println("启动完成");
+        System.out.println("启动完成2");
     }
 
 }
